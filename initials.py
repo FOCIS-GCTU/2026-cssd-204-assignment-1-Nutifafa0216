@@ -8,7 +8,7 @@
 # Grader: Mr. Augustus Buckman
 
 # On my honor, NUTIFAFA FIADJOE, this programming assignment is my own work
-# and I have not provided this code to any other student.
+# and I have not provided this code to any other student.  
 
 
 def main():
